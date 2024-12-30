@@ -15,6 +15,5 @@ How to Play:
 
 The game announces the winner based on the highest score.
 
-Technologies Used:
 Python: Core programming language.
 Random Module: For dice rolls.
